@@ -1,8 +1,8 @@
-# The Great CDN of Central Insurance
+# The Great CDN 
 
 ## Overview
 
-The Great CDN for Central Insurance enhances the delivery of digital assets—such as policy documents, customer portals, and internal applications—by reducing latency, increasing fault tolerance, and ensuring fast load times. Strategic deployment of CDN nodes in major cities across Iran improves the user experience for both internal stakeholders and external customers.
+The Great CDN enhances the delivery of digital assets—such as policy documents, customer portals, and internal applications—by reducing latency, increasing fault tolerance, and ensuring fast load times. Strategic deployment of CDN nodes in major cities across Iran improves the user experience for both internal stakeholders and external customers.
 
 ## Objectives
 
